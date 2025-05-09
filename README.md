@@ -13,8 +13,13 @@ Bot simpel untuk mengubah nama banyak file sekaligus — cocok buat kamu yang su
 ### 💬 [Chat Bot](https://github.com/rzzky18/chat-bot)
 Chatbot interaktif yang bisa kamu pakai untuk berbagai keperluan — dari ngobrol santai sampai bantu kerjaan.
 
-### ✋ [Hand Detector](https://github.com/rzzky18/hand-detector)
-Deteksi tangan real-time pakai OpenCV + MediaPipe. Cocok buat proyek gesture control atau interaksi AI.
+### ✋ [Hand Gesture Controller](https://github.com/rzzky18/hand-gesture-controller)  
+Kontrol PC tanpa menyentuh mouse!  
+Deteksi gerakan tangan real-time menggunakan OpenCV + MediaPipe untuk klik, scroll, volume, dan lainnya.  
+Cocok untuk proyek AI interaktif, automation, atau assistive tech berbasis gesture.
+
+🧠 Python | 🖱️ PyAutoGUI | 🎥 OpenCV | 🤖 MediaPipe  
+
 
 ---
 
