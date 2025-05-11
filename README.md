@@ -20,6 +20,12 @@ Cocok untuk proyek AI interaktif, automation, atau assistive tech berbasis gestu
 
 🧠 Python | 🖱️ PyAutoGUI | 🎥 OpenCV | 🤖 MediaPipe  
 
+### 🍎 [YOLOv5 Buah - Perbandingan Labeling](https://github.com/rzzky18/fruit-detetction-yolov5)  
+Eksperimen mendeteksi 5 jenis buah dengan dua metode labeling berbeda:  
+📦 **Per Objek:** Setiap buah dilabeli satu per satu  
+🖼️ **Per Grup:** Semua buah dilabeli sebagai satu kesatuan dalam gambar  
+Proyek ini membandingkan hasil akurasi deteksi, loss, dan precision antar kedua metode tersebut.  
+🧠 YOLOv5 | 🖼️ Computer Vision | 🔍 Object Detection
 
 ---
 
