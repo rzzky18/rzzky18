@@ -48,7 +48,7 @@ Proyek ini membandingkan hasil akurasi deteksi, loss, dan precision antar kedua 
 
 ## 📬 Kontak Aku
 
-- 📧 Email: nimeklovt@gmail.com
+- 📧 Email: acoount469@gmail.com
 - 🆔 Projects.co.id: Kyy_18
 
 ---
